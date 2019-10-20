@@ -1,7 +1,6 @@
 # Lem-in  
-42 School project
-
-This project is a game about ant farm. Its goal is to find the shortest path from start room to the end.  
+42 School project  
+Your ant colony must move from on point to another. How do you do it in the shortest time possible? This project will get you acquainted with graph traversal algorithms: your program will have to intelligently select paths and precise movements used by the ants. 
 final mark : 124/100   
 ## Usage
 ```
